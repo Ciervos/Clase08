@@ -1,0 +1,22 @@
+body
+{ background: sandybrown;}
+
+.articulo1
+{
+    float: left;
+    width: 75%;
+}
+
+.aside1
+{
+float: right;
+width: 25%;
+}
+
+footer
+{
+    
+    clear: both;
+    padding: 70px 0px 0px 0px;
+    font-weight: bold;
+}
