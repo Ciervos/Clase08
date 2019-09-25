@@ -1,22 +1,36 @@
 body
-{ background: sandybrown;}
+{ background: sandybrown;
+    }
 
 .articulo1
 {
     float: left;
-    width: 75%;
+    box-sizing: border-box;
+    width: 38%;
+    box-shadow: 2px 2px 11px grey;
+    padding: 15px;
+    margin: 15px;
+    text-align: justify;
+}
+
+h3,h5,h1
+{
+    font-family: 'Mansalva', cursive;
 }
 
 .aside1
 {
 float: right;
-width: 25%;
+width: 15%;
+box-sizing: border-box;
+box-shadow: 2px 2px 11px grey;
+padding: 30px;
 }
 
 footer
 {
     
     clear: both;
-    padding: 70px 0px 0px 0px;
+    padding: 30px 0px 0px 0px;
     font-weight: bold;
 }
