@@ -1,5 +1,6 @@
 body
-{ background: sandybrown;
+{ background: url(https://i.ytimg.com/vi/Pn5Xl4c685A/maxresdefault.jpg) no-repeat left;
+    background-size: 120%;
     }
 
 .articulo1
@@ -24,13 +25,16 @@ float: right;
 width: 15%;
 box-sizing: border-box;
 box-shadow: 2px 2px 11px grey;
-padding: 30px;
+padding: 20px;
 }
 
 footer
-{
-    
+{ 
+    background: black;
+    color: whitesmoke;   
     clear: both;
-    padding: 30px 0px 0px 0px;
+    margin-top: 500px;
     font-weight: bold;
+    position: fixed;
+    width: 100%;
 }
